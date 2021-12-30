@@ -48,7 +48,7 @@
 * The System Program is ultimately the ancestor of all Solana Accounts
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/29623199/147405481-2674965d-fbf9-43df-995e-ddf540bc2eca.png" alt="accounts structure" width="65%"/>
+  <img src="https://user-images.githubusercontent.com/29623199/147405481-2674965d-fbf9-43df-995e-ddf540bc2eca.png" alt="accounts structure" width="95%"/>
 </P>
 
 ### Accounts in Project
@@ -70,7 +70,7 @@
 * That `Program` Object can interact with the Solana Program on Behalf of a Wallet without even needing to know anything about the underlying API
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/29623199/147581109-fb2981ba-b729-47e9-9bc1-054da8bb90ef.png" alt="solana-interacting-model" width="75%"/>
+  <img src="https://user-images.githubusercontent.com/29623199/147581109-fb2981ba-b729-47e9-9bc1-054da8bb90ef.png" alt="solana-interacting-model" width="85%"/>
 </P>
 
 ### Filter in Solana
